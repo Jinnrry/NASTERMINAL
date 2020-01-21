@@ -1,5 +1,7 @@
 <template>
-    $END$
+  <div class="aa">
+    Hello World!
+  </div>
 </template>
 
 <script>
