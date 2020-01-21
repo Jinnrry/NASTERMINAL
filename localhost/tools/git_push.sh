@@ -1,5 +1,5 @@
 #!/bin/bash
 git add *
-git commint -m"auto report"
+git commit -m"auto report"
 git pull
 git push
